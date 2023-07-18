@@ -1580,7 +1580,7 @@ summary::-webkit-details-marker {
     display: none;
   }
   .filter__svg-dekstop {
-    transform: scale(250%);
+    transform: scale(2.5);
     margin-left: 10px;
   }
   .sort-box {
